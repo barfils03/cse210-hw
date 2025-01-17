@@ -1,0 +1,14 @@
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.exe
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.deps.json
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.runtimeconfig.json
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.dll
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.pdb
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.AssemblyInfoInputs.cache
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.AssemblyInfo.cs
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.csproj.CoreCompileInputs.cache
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.dll
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\obj\Debug\net8.0\refint\Prep4.dll
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.pdb
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.genruntimeconfig.cache
+C:\Users\Pathway\Desktop\CSE210-HW-main\csharp-prep\Prep4\obj\Debug\net8.0\ref\Prep4.dll
